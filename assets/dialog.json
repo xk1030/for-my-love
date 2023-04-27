@@ -18,7 +18,8 @@
                 "在这短短的25天，我们去过了东山",
                 "<img src='img/dongsahn.jpeg'>",
                 "去过了阳澄湖",
-                "<img src='img/news-wuhanfeiyan.jpg'>",
+                "<img src='img/xiaohua.jpg'>",
+                "<img src='img/yangchenghu.jpg'>",
                 "吃过了川菜，品尝过了太湖农家菜",
                 "后面呢我还安排了很多其他的活动呢",
                 "美食包括：日料，串串，火锅，烧烤",
@@ -37,12 +38,12 @@
     }, {
         "id": "0001",
         "details": [
-            ["<img src='img/news-wuhanfeiyan.jpg'>", "好开心呀，宝贝，你永远是我心目中的小公主！"]
+            ["好开心呀，宝宝，你永远是我心目中的小公主！"]
         ]
     }, {
         "id": "0002",
         "details": [
-            ["<img src='img/news-wuhanfeiyan.jpg'>", "我会努力得到你的认可的，宝贝，你永远是我心目中的小公主！"]
+            ["我会努力得到你的认可的，宝宝，你永远是我心目中的小公主！"]
         ]
     }],
     "fromUser": []
