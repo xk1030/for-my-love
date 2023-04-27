@@ -39,12 +39,12 @@
     }, {
         "id": "0001",
         "details": [
-            ["<img src='img/kiss-my-princess.png'>", "好开心呀，宝贝，你永远是我心目中的小公主！"]
+            ["好开心呀，宝贝"]
         ]
     }, {
         "id": "0002",
         "details": [
-            ["<img src='img/kiss-my-princess.png'>", "我会努力得到你的认可的，宝贝，你永远是我心目中的小公主！"]
+            ["我会努力得到你的认可的，宝贝"]
         ]
     }],
     "fromUser": []
